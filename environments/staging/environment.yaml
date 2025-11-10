@@ -43,7 +43,7 @@ app:
   #    logGroup: myLogGroup
   #    region: us-east-1
 
-  version: ""
+  version: "9ed86a5a-9e94-4133-8692-8f4ddbbd797b"
 # probes
 # dynamic scaling
 # scaling to 0
